@@ -18,6 +18,6 @@ node main.js
 ```
 
 - Masukin Channel ID
-- Masukin Delay Isi 300 (Karena Delay Momentum 5 Menit Sekarang)
+- Masukin Delay Isi 60 (sama dengan 1 menit)
 - Save Screen CTRL A D
 - Done
